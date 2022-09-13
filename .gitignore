@@ -1,0 +1,9 @@
+.idea/
+ClientOk/Client.iml
+Server/Server.iml
+Client/src/main/java/META-INF/MANIFEST.MF
+Server/src/META-INF/MANIFEST.MF
+Mock-up/
+out/
+/Client/target/
+/Server/target/
